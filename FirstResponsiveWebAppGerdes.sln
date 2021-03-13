@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirstResponsiveWebAppGerdes", "FirstResponsiveWebAppGerdes\FirstResponsiveWebAppGerdes.csproj", "{DAB06E6B-5A98-4CF1-B9CD-C558A896AE7E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DAB06E6B-5A98-4CF1-B9CD-C558A896AE7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAB06E6B-5A98-4CF1-B9CD-C558A896AE7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAB06E6B-5A98-4CF1-B9CD-C558A896AE7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAB06E6B-5A98-4CF1-B9CD-C558A896AE7E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {70BAC31C-12AA-4201-82E9-1FAA0D3B5554}
+	EndGlobalSection
+EndGlobal
